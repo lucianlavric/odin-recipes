@@ -1,0 +1,30 @@
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+
+.list-container{
+    margin: auto;
+    max-width: fit-content;
+}
+
+.list-properties{
+    padding: 0;
+}
+
+li{
+    padding: 16px;
+    border: 1px solid black;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+/* body{
+    text-align: center;
+} */
